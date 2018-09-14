@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    S3_BUCKET: "movies-api-deployment-packages"
+    S3_BUCKET: "movies-api-go-code"
     PACKAGE: "github.com/sanjayk108/lambda-codepipeline"
 phases:
   install:
